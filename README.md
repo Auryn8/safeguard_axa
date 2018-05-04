@@ -19,7 +19,7 @@ Desarrollar una aplicación móvil en 36 horas en la cual, un agente encubierto 
 
 ## Un usuario muy particular
 
-![User Persona](./assets/images/user-persona-axa.png)
+![User Persona](./assets/images/user_persona_axa.png)
 
 
 ## Estrategia
@@ -31,5 +31,5 @@ Desarrollar una aplicación móvil en 36 horas en la cual, un agente encubierto 
 
 ![Moodboard James Bond](./assets/images/james-bond-moodboard.jpg)
 
-![Sistema de diseño](./assets/images/proceso.png)
+![Sistema de diseño](./assets/images/sistema-diseno.png)
 
